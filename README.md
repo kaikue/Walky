@@ -5,13 +5,14 @@ Experimental physics-based 2D sidescroller with unusual movement.
 ## TODO
 
 ### Movement
+- Feet
+	- target rotation based on nearest floor normal
 - Head
 	- stay up in the air
 	- stay right side up/upside down (no spinning)
 - Legs
 	- curve (based on bezier with head sides?)
-- Feet
-	- target rotation based on nearest floor normal
+	- slider joints so feet can get close to head?
 
 ### Levels
 - Tilemap
@@ -23,6 +24,7 @@ Experimental physics-based 2D sidescroller with unusual movement.
 - Swimming?
 
 ### Mechanics
+- Unstick feet buttons? (press in on joystick)
 - Collect stuff
 - NPCs?
 - Customizables?
